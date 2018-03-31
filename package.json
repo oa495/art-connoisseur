@@ -1,0 +1,31 @@
+{
+  "name": "glitch-twitterbot",
+  "version": "0.0.1",
+  "description": "Beep beep tweet!",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "twit": "^2.2.9",
+    "express": "^4.16.3",
+    "tracery-grammar": "^2.7.3",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "engines": {
+    "node": "6.9.1"
+  },
+  "repository": {
+    "url": ""
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "gomix",
+    "hyperdev",
+    "twitter",
+    "twitterbot",
+    "bot"
+  ]
+}
